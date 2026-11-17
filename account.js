@@ -1,7 +1,7 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "YASIN";
+var website_name = "MALS TopUp";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
@@ -16,7 +16,7 @@ var telegram_group_link = "telegram group link";
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
-var youtube_channel_link = "YouTube channel link";
+var youtube_channel_link = "https://www.youtube.com/@Ariyan_Mals7";
 
 // =======================================================
 // NOTIFICATION TEXT
